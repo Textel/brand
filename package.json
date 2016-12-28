@@ -1,11 +1,12 @@
 {
-  "name": "textel-brand",
+  "name": "@textel/textel-brand",
   "version": "1.0.0",
   "description": "Official Textel brand assets and guidelines.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Textel/textel-brand.git"
+    "url": "git+https://github.com/Textel/textel-brand.git"
   },
   "author": "Andrew Snell <andrew@textel.net>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/Textel/textel-brand#readme",
 }
