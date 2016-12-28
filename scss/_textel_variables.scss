@@ -1,0 +1,19 @@
+/*!
+ * Textel Brand Variables for Sass
+ * Copyright (c) 2016 Textel, LLC  -- All Rights Reserved
+ * Author: Andrew Snell <andrew@textel.net>
+ */ 
+
+// Textel Brand Fonts & Typography
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:400,700');
+$textel-sans-font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$textel-mono-font-family: 'Inconsolata', monospace;
+
+// Textel Brand Color Pallet
+$textel-blue: #005EB8;
+$textel-green: #84BD00;
+$textel-dark-gray: #333333;
+$textel-medium-gray: #999999;
+$textel-light-gray: #E6E6E6;
+$textel-white: #FFFFFF;
+$textel-black: #000000;
