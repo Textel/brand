@@ -8,16 +8,16 @@ document included in this repository.
 ## Installation
 There are three ways to download this repository:
 
-1. Download the ZIP File: https://github.com/textel/textel-brand/archive/master.zip
+1) Download the ZIP File: https://github.com/textel/textel-brand/archive/master.zip
 
-2. Clone this Repository with [Git](https://git-scm.com/):
+2) Clone this Repository with [Git](https://git-scm.com/):
 ```
 git clone https://github.com/textel/textel-brand.git
 ```
 
-3. Install using NPM Package Manager:
+3) Install using NPM Package Manager:
 ```
-npm install textel/textel-brand
+npm install @textel/textel-brand
 ```
 
 ## Logo and Wordmark Images
